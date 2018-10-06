@@ -1,4 +1,4 @@
-name := "csv2csv"
+name := "csv-reader-example"
 
 version := "0.1"
 
